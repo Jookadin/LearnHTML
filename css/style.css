@@ -2,3 +2,19 @@ h1 {
   color:blue;
   background-color:red;
 }
+#first {
+  color:red;
+  background-color:black;
+}
+#second {
+  color:green;
+  background-color:yellow;
+}
+#third {
+  color:cyan;
+  background-color:orange;
+}
+#fourth {
+  color:white;
+  background-color:black;
+}
